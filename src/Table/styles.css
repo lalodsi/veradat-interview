@@ -1,0 +1,19 @@
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.Table_ceil{
+  background-color: #075799;
+}
+.Table_ceil:hover{
+  background-color: #1172c2;
+}
+.Table_ceil_year{
+  background-color: #023a67;;
+
+}
+.Table_head{
+  background-color: #00515a;;
+
+}
